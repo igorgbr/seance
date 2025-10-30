@@ -58,7 +58,3 @@ Sinta-se à vontade para abrir issues ou contribuir com melhorias. Este reposit�
 ---
 
 Arquivo principal: `seance.exs` — execute com `elixir seance.exs`.
-
-
-# seance
-
